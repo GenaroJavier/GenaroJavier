@@ -41,6 +41,10 @@ src="https://img.shields.io/github/followers/GenaroJavier?logo=github&style=for-
 
 ### Badges
 
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.1.0
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/GenaroJavier"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GenaroJavier&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
