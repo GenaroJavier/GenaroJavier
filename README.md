@@ -1,4 +1,3 @@
-# Genaro Javier
 ### Desarrollador web
 
 ⤷ Me defino como una persona comunicativa, emprendedora, positiva, segura de que estamos rodeados de alternativas y oportunidades, apasionado por combinar la sencillez y la funcionalidad con lo último en tecnologías web frontend y backend. Si hay algo que me caracteriza es que me involucro al 100% en 
